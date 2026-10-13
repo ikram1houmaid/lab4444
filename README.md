@@ -69,3 +69,10 @@ La classe `Point` et sa classe de test peuvent également être ajoutées selon 
 ## Auteur
 
 Ikram Houmaid
+<img width="375" height="190" alt="image" src="https://github.com/user-attachments/assets/26e6d879-6a83-4b31-8172-0abac79a81fc" />
+<img width="350" height="86" alt="image" src="https://github.com/user-attachments/assets/ff18d648-1eb7-4342-84ec-55d29e9e28af" />
+
+<img width="377" height="161" alt="image" src="https://github.com/user-attachments/assets/0221bb95-0020-4811-9a2d-3476e5cbf908" />
+<img width="355" height="65" alt="image" src="https://github.com/user-attachments/assets/ce3235eb-e515-4774-a04f-0851b7718f1a" />
+<img width="209" height="119" alt="image" src="https://github.com/user-attachments/assets/13dd0b8e-bdfd-4b28-9bea-377a6c073b93" />
+<img width="206" height="83" alt="image" src="https://github.com/user-attachments/assets/3d6087f6-25d3-4700-a00c-40fc3658de2f" />
